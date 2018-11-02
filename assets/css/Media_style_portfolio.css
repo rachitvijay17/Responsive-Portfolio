@@ -1,0 +1,134 @@
+@media screen and (max-width: 768px) and (min-width: 641px){
+    
+    .main_portfolio{
+        width: 96%;
+        margin: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+    header{
+        width: 96%;
+        padding-top: 5px;
+        padding-left: 2%;
+        padding-bottom: 0;
+        padding-right: 2%; 
+        border: none;
+    }
+
+    #footer{
+            width: 100%;
+    }
+    .divhead{
+        width: 100%;
+    }
+    .img_container{
+        width: 96%;
+        margin: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+        margin-bottom: 100px;
+    }
+}
+
+
+@media screen and (max-width: 980px) and (min-width: 769px){
+
+    .main_portfolio{
+        width: 92%;
+        margin: 0;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    #footer{
+        width: 100%;
+            }
+    .divhead{
+        width: 100%;
+    }
+    
+    header{
+        width: 92%;
+        padding-top: 5px;
+        padding-left: 4%;
+        padding-bottom: 0;
+        padding-right: 4%; 
+        border:none;
+        margin:0;
+    }
+
+    .img_container{
+        width: 92%;
+        margin: 0;
+        padding-left: 4%;
+        padding-right: 4%;
+        margin-bottom: 100px;
+    }
+
+}
+
+
+@media screen and (max-width: 640px) {
+
+    .main_portfolio{
+        width: 92%;
+        margin: 0;
+        padding-bottom: 20px;
+        margin-left: 4%;
+        margin-right: 4%;
+    }
+    #footer{
+        width: 100%;
+            }
+    .divhead{
+        width: 100%;
+        padding-top: 0;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    header{
+        width: 100%;
+        padding: 0; 
+        border:none;
+        margin:0;
+    }
+    
+    #section_portfolio{
+        border: none;
+        padding-bottom: 100px;
+    }
+    #name{
+        width: 50%;
+        padding-left: 25%;
+        padding-right: 25%;
+    }
+    #nav{
+        width: 50%;
+        align-content: center;
+        margin: 0;
+        background-color: #ffffff;
+        padding-left: 25%;
+        padding-right: 25%;
+        border-bottom-color: #ccc;
+    }
+    li{
+        width: 25%;
+    }
+
+    .img_container{
+        width:92%;
+        margin: 0;
+        margin-left: 4%;
+        Margin-right: 4%;
+        margin-bottom: 200px;
+        height: 1050px;
+    
+    }
+    h2{
+        font-size: 20px;
+    }
+    .imgp1, .imgp2, .imgp3, .imgp4, .imgp5{
+        width: 92%;
+    }
+
+}
